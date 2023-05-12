@@ -120,6 +120,10 @@ Training Loss, Validation Loss Vs Iteration             | Accuracy, Validation A
 ![237873023-d0c88564-2cf8-4d8e-98af-ba12816aa196](https://github.com/MEENA155/Implementation-of-Transfer-Learning/assets/94677128/b314eb4a-fb42-4321-a726-ef7279042e59)
 
 
+
+
+
+
 ### Confusion Matrix
 ![237873082-88a20d20-1f76-4a80-9201-77e870dc7c5b](https://github.com/MEENA155/Implementation-of-Transfer-Learning/assets/94677128/87d7efc8-2827-4250-aa51-a9969a205c35)
 
