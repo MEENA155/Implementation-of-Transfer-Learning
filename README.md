@@ -78,18 +78,20 @@ metrics[['accuracy','val_accuracy']].plot()
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
-Training Loss, Validation Loss Vs Iteration             | Accuracy, Validation Accuracy Vs Iteration                   |               
-:------------------------------------------------------:| :-----------------------------------------------------------:|
-| | |
-### Classification Report
+
+
 ![241361141-9fd174bf-f662-4320-8e63-55b8fab65395](https://github.com/MEENA155/Implementation-of-Transfer-Learning/assets/94677128/1a33c375-21b0-4880-b30b-1cdecd910ede)
 
 
 
 
 
-### Confusion Matrix
 ![241361148-0b7f8157-055a-4cae-9311-679e6a62a16f](https://github.com/MEENA155/Implementation-of-Transfer-Learning/assets/94677128/f80f091a-acd9-489e-b476-1aea73fccd51)
+## Classification Report:
+![c1](https://github.com/MEENA155/Implementation-of-Transfer-Learning/assets/94677128/f0dc463f-30b8-4c28-bf55-1d4822bf9aa6)
+## Confusion Matrix:
+![c2](https://github.com/MEENA155/Implementation-of-Transfer-Learning/assets/94677128/62412c54-9576-434e-83ad-7f9de116df24)
+
 
 ## RESULT
 Thus, transfer Learning for CIFAR-10 dataset classification using VGG-19 architecture is successfully implemented.
